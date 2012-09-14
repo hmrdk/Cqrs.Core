@@ -29,7 +29,6 @@ class EventStore {
 	}
 
 	/**
-	 * @abstract
 	 * @param int $aggregateId
 	 * @return array
 	 */
